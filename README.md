@@ -22,8 +22,8 @@ This project analyzes sales performance across products, categories, and time pe
 - Category-wise sales
 
 ## Files in this Repository
-- Sales_Dashboard.pbix
 - [Dashboard](Sales_overview.pdf)
+- Sales_Dashboard.pbix
 - sales_data.csv
 
 ## Business Insights
