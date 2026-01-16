@@ -86,3 +86,9 @@ Designed with a business-first approach, this project focuses on executive-level
 - Customer segmentation analysis
 - Profit margin tracking
 - Geo-based sales visualization
+
+  ---
+
+## 👩‍💻 About the Author
+**Sweta**  
+Software Engineer
