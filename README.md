@@ -22,9 +22,9 @@ This project analyzes sales performance across products, categories, and time pe
 - Category-wise sales
 
 ## Files in this Repository
-- Sales_Dashboard.pbix – Power BI dashboard file
-- Sales_overview.pdf – Dashboard snapshot
-- Dataset files (if any)
+- Sales_Dashboard.pbix
+- Sales_overview.pdf
+- sales_data.csv
 
 ## Business Insights
 - Clothing and Electronics contribute highest sales
