@@ -22,7 +22,7 @@ This project analyzes sales performance across products, categories, and time pe
 - Category-wise sales
 
 ## Files in this Repository
-- [Sales_Dashboard.pbix] (https://github.com/swetanim/Sales-Dashboard-PowerBI/blob/main/Sales_Dashboard.pbix)
+- Sales_Dashboard.pbix
 - Sales_overview.pdf
 - sales_data.csv
 
